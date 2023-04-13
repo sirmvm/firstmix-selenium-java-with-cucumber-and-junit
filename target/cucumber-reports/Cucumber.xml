@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<testsuite errors="0" failures="0" name="io.cucumber.core.plugin.JUnitFormatter" skipped="0" tests="1" time="13.72">
+    <testcase classname="Servicios de coaching" name="Ingresar a Servicio de coaching desde pagina Home" time="13.607">
+        <system-out><![CDATA[Given El usuario se encuentra en la pagina Home de HappyFamily..............passed
+When Hacer click sobre el link en el navbar Servicios de Coaching...........passed
+Then Debe redirigir a la pagina Servicio de Coaching........................passed
+]]></system-out>
+    </testcase>
+</testsuite>
